@@ -30,7 +30,9 @@
          and transactions.market_code="Mark001";`
          
 
-## Power BI dashboard
+
+ ## Power BI dashboard
+![Screenshot1](https://user-images.githubusercontent.com/56236688/99777749-c64c8a80-2b38-11eb-8ecd-c17c3616835a.png)
 
 
 
